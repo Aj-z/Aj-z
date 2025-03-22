@@ -1,5 +1,5 @@
 ## Hi there 👋
-feel free to visit to see more :)
+feel free to visit to see more :))
 [alvinprofile.vercel.app/ ](https://alvinprofile.vercel.app/)
 <!--
 **AjloriaCodex/AjloriaCodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
