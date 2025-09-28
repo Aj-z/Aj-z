@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/161024793?v=4" alt="Aj-z avatar" width="96" style="border-radius:50%">
-</p>
 
 <h1 align="center">Alvin Jan Loria (Aj-z)</h1>
 <p align="center"><em>“Pursue well-being and growth for yourself, for others. Endure challenges, express deeply, and seek balance in all things.”</em></p>
