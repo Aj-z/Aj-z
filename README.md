@@ -13,7 +13,7 @@ Bridge art & tech to craft programs and sites that are memorable and meaningful,
 
 ### 🚀 Projects
 
-[![ProfileInReact](https://img.shields.io/badge/Re-Animated%20Profile-388E3C?style=flat-square&logo=react)](https://github.com/Aj-z/ai-rehab-ph)
+[![ProfileInReact](https://img.shields.io/badge/RehabSite-$Typscript%20Profile-388E3C?style=flat-square&logo=react)](https://github.com/Aj-z/ai-rehab-ph)
 [![WorkoutLogger](https://img.shields.io/badge/WorkoutLogger-Live%20Demo-1976D2?style=flat-square&logo=google-fit)](https://github.com/Aj-z/WorkoutLogger)
 [![VisBoard](https://img.shields.io/badge/VisBoard-Visual%20Boards-7E57C2?style=flat-square&logo=visualstudiocode)](https://github.com/Aj-z/VisBoard)  
 [![ProfileInReact](https://img.shields.io/badge/ProfileInReact-Animated%20Profile-388E3C?style=flat-square&logo=react)](https://github.com/Aj-z/ProfileInReact)
