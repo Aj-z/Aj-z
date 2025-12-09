@@ -13,7 +13,7 @@ Bridge art & tech to craft programs and sites that are memorable and meaningful,
 
 ### 🚀 Projects
 
-
+[![ProfileInReact](https://img.shields.io/badge/Re-Animated%20Profile-388E3C?style=flat-square&logo=react)](https://github.com/Aj-z/ai-rehab-ph)
 [![WorkoutLogger](https://img.shields.io/badge/WorkoutLogger-Live%20Demo-1976D2?style=flat-square&logo=google-fit)](https://github.com/Aj-z/WorkoutLogger)
 [![VisBoard](https://img.shields.io/badge/VisBoard-Visual%20Boards-7E57C2?style=flat-square&logo=visualstudiocode)](https://github.com/Aj-z/VisBoard)  
 [![ProfileInReact](https://img.shields.io/badge/ProfileInReact-Animated%20Profile-388E3C?style=flat-square&logo=react)](https://github.com/Aj-z/ProfileInReact)
@@ -31,8 +31,15 @@ Bridge art & tech to craft programs and sites that are memorable and meaningful,
 
 ### 💡 Skills
 
-`JavaScript` · `React` · `HTML/CSS` · `Python` · `SQL` · `R`  
-`Digital Art` · `UI/UX` · `Data Analysis` · `Visualization` · `Critical Thinking` · `Mental Health Advocacy`
+`Python` · `R`  `Digital Art` · `UI/UX` · `Data Analysis` · `Visualization` ·
+`Critical Thinking` · `Mental Health Advocacy` `JavaScript` · `TypeScript` · 
+`React` · `Next.js` · `HTML/CSS` · `Tailwind CSS`  `Node.js` · 
+`Supabase` · `PostgreSQL` · `SQL` · `MediaPipe` · `Recharts`  
+`Git` · `Markdown` · `Jest` · `Playwright` · `Lighthouse` · `CI/CD`  
+`Agile Development` · `Prompt Engineering` · `HIPAA Compliance`  
+`Responsive Design` · `UI/UX` · `Data Visualization` · `Error Handling`  
+`Project Management` · `Problem-Solving` · `Stakeholder Communication`  
+`Technical Documentation` · `Critical Thinking`
 
 ---
 
